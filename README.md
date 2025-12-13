@@ -49,6 +49,8 @@ Misfire:
 Upon rolling a nat1 while attacking with a gun, your gun immediately ceases to function, this can be remedied with a successful dexterity(tinkers tools) check, depending on the weapon, misfire may carry extra consequences.
 
 
+TIER ONE
+
 Pistol: 
 Damage: 1d8+3
 Ammo type: light
@@ -110,6 +112,10 @@ Upon reducing the enemy to 0 hp or less, they will be kept alive, but unconsciou
 Unconscious targets can be traded in for 1.5x the amount of money then if they were dead.
 Cost: 90GP
 Tier 1
+
+
+
+TIER TWO
 
 Single barrel shotgun:
 Damage: 1d8+3
