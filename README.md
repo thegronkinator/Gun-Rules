@@ -117,7 +117,7 @@ Tier 1
 
 TIER TWO
 
-Single barrel shotgun:
+Detachable magazine shotgun V1:
 Damage: 1d8+3
 Ammo type: shells
 Range: 50FT
