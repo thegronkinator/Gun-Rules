@@ -171,5 +171,51 @@ enemies reduced to 0hp with this weapon with be kept alive and concious, but una
 live targets may be turned in for extra money.
 cost: 230GP
 
+Attachments:
+Attachments are parts that you can attach to your gun to give it varying levels of increased usefulness, every gun is equipped with three attachment slots, the scope, barrel, and grip.
+
+One of each of these may be attached to the gun at a time, and attachments may be removed or added as a bonus action.
+These follow the same tier rules as guns.
+
+Any and all attachments must be attached to the gun for their function to be used.
+
+Sniper scope:
++3 to attacking targets no closer than 100FT away
+Cost: 50GP
+Tier 1
+
+
+Laser scope:
++1 to attacking targets within 120FT of you
+Cost: 40GP
+Tier 1
+
+Night vision scope:
+Grants darkvision, and removes any disadvantage caused by nonmagical darkness.
+Cost: 60GP
+Tier 1
+
+Silencer barrel:
+Suppresses barrel sound so that only people within 20FT of you can hear it.
+Cost: 35GP
+Tier 1
+
+Acceleration barrel:
+Adds 30FT of extra range
+Cost: 40GP
+Tier 1
+
+Steady grip:
+Adds an extra point of damage for each successful attack with the gun its connected to.
+Cost: 45GP
+Tier 1
+
+Fast grip:
+Upon rolling misfire with the weapon this is attached to, you may reroll your attack, this resets every short rest. 
+Cost: 50Gp
+Tier 1
+
+
+
 
 
