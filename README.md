@@ -148,6 +148,7 @@ Single Canister Air Rifle:
 Damage: 2d8
 Ammo type: Canister
 Range: 10FT
+Mag capacity: 1
 imposes strength saving throw on target,
 on fail, target is knocked 5FT backwards.
 Fire type: semi-auto
@@ -158,10 +159,11 @@ Aether Conduit
 Damage: 1d6
 Ammo type: magic
 Range: 80FT
-fire type: full auto
-fire rate: 2
+Fire type: full auto
+Fire rate: 2
 cost: 250GP
 tier 2
+
 
 non-lethal tazer gun
 damage: 2d6+2
@@ -169,6 +171,8 @@ range: 90FT
 fire type: semi auto
 enemies reduced to 0hp with this weapon with be kept alive and concious, but unable to move for the length of a day,
 live targets may be turned in for extra money.
+Mag capacity: 10
+Ammo type: magnet rounds
 cost: 230GP
 
 Attachments:
@@ -214,6 +218,12 @@ Fast grip:
 Upon rolling misfire with the weapon this is attached to, you may reroll your attack, this resets every short rest. 
 Cost: 50Gp
 Tier 1
+
+Thermal scope 
+allows you to see any object with a heat signature regardless of darkness, magical or otherwise.
+cost:150gp
+tier2
+
 
 
 
