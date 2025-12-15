@@ -3,7 +3,7 @@ Gracile’s gun rules:
 
 Reloading:
 Auto:
-as your attack, roll to attack for the amount of times specified in the fire rate of the gun per attack action.
+when you attack with a full auto gun, you may attack twice, this stacks with class features.
 
 Semi-Auto:
 you can only fire the weapon for the amount of ammo in its magazine per turn, if you have extra attacks and your mag has ammo, you may use it.
@@ -46,7 +46,7 @@ Tier 3: purchasable at levels 11-15
 Tier 4: purchasable at levels 16-20
 
 Misfire:
-Upon rolling a nat1 while attacking with a gun, your gun immediately ceases to function, this can be remedied with a successful dexterity(tinkers tools) check, depending on the weapon, misfire may carry extra consequences.
+Upon rolling a nat1 while attacking with a gun, your weapon stops working, and you lose your attacks, this can be fixed with a successful dexterity(tinkers tools) check.
 
 
 TIER ONE
@@ -62,7 +62,7 @@ Cost: 100GP
 Tier 1
 
 Revolver: 
-Damage: 1d12
+Damage: 1d10
 Ammo type: medium
 Range: 130FT
 Proficiency: light weapons
@@ -95,9 +95,9 @@ Tier 1
 
 Prism gauntlet:
 Damage: 1d4
-fire rate: 2
 Ammo type: Magic
 Fire type: full auto
+Mag Capacity 2
 Cost: 200GP
 Tier 1
 
@@ -127,7 +127,7 @@ Cost: 200GP
 Tier 2
 
 Acceleration rifle:
-Damage: 3d4+2
+Damage: 2d4+3
 Ammo type: magnet rounds
 Range: 250FT
 Fire type: semi-auto
@@ -136,7 +136,7 @@ Cost: 250GP
 Tier 2
 
 Assault rifle:
-Damage: 1d6
+Damage: 1d8
 Ammo type: medium
 Range: 200FT
 Fire type: full-auto
@@ -145,7 +145,7 @@ Cost: 300GP
 Tier 2
 
 Single Canister Air Rifle:
-Damage: 2d8
+Damage: 1d8 + 1d6
 Ammo type: Canister
 Range: 10FT
 Mag capacity: 1
@@ -156,7 +156,7 @@ cost: 150GP
 tier 2
 
 Aether Conduit
-Damage: 1d6
+Damage: 1d8
 Ammo type: magic
 Range: 80FT
 Fire type: full auto
@@ -164,16 +164,21 @@ Fire rate: 2
 cost: 250GP
 tier 2
 
-
 non-lethal tazer gun
-damage: 2d6+2
+damage: 2d4
 range: 90FT
 fire type: semi auto
-enemies reduced to 0hp with this weapon with be kept alive and concious, but unable to move for the length of a day,
-live targets may be turned in for extra money.
+enemies reduced to 0hp with this weapon with be kept alive and concious, but are unconcious.
 Mag capacity: 10
 Ammo type: magnet rounds
 cost: 230GP
+tier 2
+
+TIER 3
+
+
+2d6+2
+
 
 Attachments:
 Attachments are parts that you can attach to your gun to give it varying levels of increased usefulness, every gun is equipped with three attachment slots, the scope, barrel, and grip.
@@ -184,13 +189,13 @@ These follow the same tier rules as guns.
 Any and all attachments must be attached to the gun for their function to be used.
 
 Sniper scope:
-+3 to attacking targets no closer than 100FT away
+when attacking a creature at least 100FT away, you ignore half and three quarters cover.
 Cost: 50GP
 Tier 1
 
 
 Laser scope:
-+1 to attacking targets within 120FT of you
+you gain advantage on your first attack against a creature within 70FT
 Cost: 40GP
 Tier 1
 
@@ -210,7 +215,7 @@ Cost: 40GP
 Tier 1
 
 Steady grip:
-Adds an extra point of damage for each successful attack with the gun its connected to.
+Adds an extra +2 to damage for each successful attack with the gun its connected to.
 Cost: 45GP
 Tier 1
 
@@ -222,7 +227,7 @@ Tier 1
 Thermal scope 
 allows you to see any object with a heat signature regardless of darkness, magical or otherwise.
 cost:150gp
-tier2
+Tier 2
 
 
 
