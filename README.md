@@ -3,10 +3,10 @@ Gracile’s gun rules:
 
 Reloading:
 Auto:
-when you attack with a full auto gun, you may attack twice, this stacks with class features.
+when you attack with a full auto gun,you may attack the number of times listed on the fire rate, class features may add only one extra attack, regardless of the features.
 
 Semi-Auto:
-you can only fire the weapon for the amount of ammo in its magazine per turn, if you have extra attacks and your mag has ammo, you may use it.
+you cannot fire a semi auto gun beyond its mag capacity regardless of class features, mag capacity is the max amount of times you can make an attack with a gun in one turn, and it should not be assumed that you can make attacks with it more then your turn with any other weapon would permit.
 
 Ammo types:
 Different ammo goes to different guns, and is measured in different ways.
@@ -83,7 +83,7 @@ Cost: 60GP
 Tier 1
 
 Noisy hornet: 
-Damage: 2d4+2
+Damage: 2d4+4
 Ammo type: magnet rounds 
 Range: 130FT
 Proficiency: light weapons
@@ -94,10 +94,10 @@ Cost: 150GP
 Tier 1
 
 Prism gauntlet:
-Damage: 1d4
+Damage: 1d4+1
 Ammo type: Magic
 Fire type: full auto
-Mag Capacity 2
+Fire rate: 2
 Cost: 200GP
 Tier 1
 
@@ -144,7 +144,7 @@ Fire rate: 2
 Cost: 300GP
 Tier 2
 
-Single Canister Air Rifle:
+Air Rifle:
 Damage: 1d8 + 1d6
 Ammo type: Canister
 Range: 10FT
@@ -176,8 +176,30 @@ tier 2
 
 TIER 3
 
+SMG
+Damage: 1d6 piercing
+Range: 120FT
+Fire type: full auto
+Fire Rate: 3
+Ammo type: medium
+Cost: 300GP
+Tier 3
 
-2d6+2
+StarDrive:
+Damage: 3d8 radiant
+Range: 130FT
+Fire type: semi auto
+Mag capacity: 1
+Ammo type: magic
+Cost: 320GP
+Tier 3
+
+Triple Barrel Shotgun:
+Damage:  piercing
+Fire type: semi-auto
+
+
+
 
 
 Attachments:
@@ -228,6 +250,7 @@ Thermal scope
 allows you to see any object with a heat signature regardless of darkness, magical or otherwise.
 cost:150gp
 Tier 2
+
 
 
 
