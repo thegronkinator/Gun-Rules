@@ -177,10 +177,10 @@ tier 2
 TIER 3
 
 SMG
-Damage: 1d6 piercing
+Damage: 1d6+4 piercing
 Range: 120FT
 Fire type: full auto
-Fire Rate: 3
+Fire Rate: 2
 Ammo type: medium
 Cost: 300GP
 Tier 3
