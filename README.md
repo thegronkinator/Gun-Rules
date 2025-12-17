@@ -52,61 +52,66 @@ Upon rolling a nat1 while attacking with a gun, your weapon stops working, and y
 TIER ONE
 
 Pistol: 
-Damage: 1d8
+Damage: 1d8 piercing
 Ammo type: light
 Range: 90FT
 Proficiency: light weapons
 Fire type: semi-auto
+one handed.
 Mag capacity: 15 bullets
 Cost: 100GP
 Tier 1
 
 Revolver: 
-Damage: 1d8
+Damage: 1d10+2 piercing
 Ammo type: medium
 Range: 130FT
 Proficiency: light weapons
 Fire type: semi-auto
+one handed.
 Mag capacity: 6 bullets
 Cost: 120GP
 Tier 1
 
 Blowgun: 
-Damage: 1d4
+Damage: 1d4 piercing
 Ammo type: dart
 Range: 90FT
 Proficiency: light weapons
 Fire type: semi-auto
+one handed.
 Mag capacity: 8 darts
 Upon succeeding an attack, you may impose the poisoned condition for 1d4 turns.
 Cost: 60GP
 Tier 1
 
 Noisy hornet: 
-Damage: 16+2
+Damage: 16+2 piercing
 Ammo type: magnet rounds 
 Range: 130FT
 Proficiency: light weapons
 Fire type: semi-auto
+one handed.
 Mag capacity: 8
 Upon misfire, you must make a DC14 strength save or be knocked 10FT, failure will also impose the prone condition on you.
 Cost: 150GP
 Tier 1
 
 Prism gauntlet:
-Damage: 1d4
+Damage: 1d4 force
 Ammo type: Magic
-Fire type: full auto
-Fire rate: 2
+Fire type: semi auto
+one handed.
+Mag capacity: 2
 Cost: 200GP
 Tier 1
 
 Tranquilizer crossbow:
-Damage: 1d6+1
+Damage: 1d6+1 piercing
 Ammo type: dart
 Range: 120FT
-Proficiency: medium weapons
 Fire type: semi-auto
+two handed.
 Mag capacity: 4 bolts
 Upon reducing the enemy to 0 hp or less, they will be kept alive, but unconscious. 
 Unconscious targets can be traded in for 1.5x the amount of money then if they were dead.
@@ -118,50 +123,53 @@ Tier 1
 TIER TWO
 
 Detachable magazine shotgun V1:
-Damage: 1d8+2
+Damage: 1d8+2 piercing
 Ammo type: shells
 Range: 50FT
 Fire type: semi-auto
+two handed.
 Mag capacity: 6 shells
 Cost: 200GP
 Tier 2
 
 Acceleration rifle:
-Damage: 1d4+5
+Damage: 1d10 piercing
 Ammo type: magnet rounds
 Range: 250FT
 Fire type: semi-auto
+two handed.
 Mag capacity: 2 rounds
 Cost: 250GP
 Tier 2
 
 Air Rifle:
-Damage: 1d4
+Damage: 1d4 force
 Ammo type: Canister
-Range: 10FT
+Range: 30FT
 Fire type: full auto
-Mag capacity: 1
+two handed.
 imposes strength saving throw on target,
 on fail, target is knocked 5FT backwards.
-Fire type: semi-auto
 cost: 150GP
 tier 2
 
 Aether Conduit
-Damage: 1d4
+Damage: 1d6 radiant
 Ammo type: magic
 Range: 80FT
 Fire type: semi auto
+two handed.
 Mag capacity: 3
 cost: 250GP
 tier 2
 
 non-lethal tazer gun
-damage: 1d8
+damage: 1d8 lightning
 range: 90FT
 fire type: semi auto
 enemies reduced to 0hp with this weapon with be kept alive and concious, but are unconcious.
-living targets may be turned in for 1.5x the normal pay
+living targets may be turned in for 1.5x the normal pay, this does not stack.
+two handed.
 Mag capacity: 10
 Ammo type: magnet rounds
 cost: 230GP
@@ -171,7 +179,7 @@ TIER THREE
 
 SMG
 +1 to hit.
-Damage: 1d4 piercing
+Damage: 1d6 piercing
 Range: 120FT
 Fire type: full auto
 Ammo type: medium
@@ -179,7 +187,7 @@ Cost: 330GP
 Tier 3
 
 Assault rifle:
-Damage: 1d4
+Damage: 1d6 piercing
 Ammo type: medium
 Range: 200FT
 Fire type: full-auto
@@ -187,7 +195,7 @@ Cost: 300GP
 Tier 2
 
 StarDrive:
-Damage: 1d4 radiant
+Damage: 1d6 radiant
 Range: 130FT
 Fire type: full auto
 Ammo type: magic
@@ -204,16 +212,16 @@ Cost: 340GP
 Tier 3
 
 SoundBlaster
-Damage: 2d4 force
+Damage: 1d8 force
+Range: 50FT
 Fire type: full auto
 targets reduced to 0hp or under with this weapon will be kept alive, but unconcious and deaf.
-say it for the people in the back, living enemies may be turned in for 1.5x the normal pay.
+say it for the people in the back, living enemies may be turned in for 1.5x the normal pay, and it still doesn't stack.
 Ammo type: Canister
 Cost: 350
 Tier 3
 
-PulseRail:
-Damage:
+TIER FOUR
 
 
 Attachments:
