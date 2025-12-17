@@ -177,10 +177,9 @@ tier 2
 TIER 3
 
 SMG
-Damage: 1d6+4 piercing
+Damage: 1d6+1 piercing
 Range: 120FT
 Fire type: full auto
-Fire Rate: 2
 Ammo type: medium
 Cost: 300GP
 Tier 3
@@ -195,9 +194,12 @@ Cost: 320GP
 Tier 3
 
 Triple Barrel Shotgun:
-Damage:  piercing
-Fire type: semi-auto
-
+Damage: 2d12 piercing
+Fire type: semi auto
+Mag Capacity: 6
+Ammo type: shells
+Cost: 340GP
+Tier 3
 
 
 
