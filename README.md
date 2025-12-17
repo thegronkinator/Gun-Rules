@@ -3,7 +3,7 @@ Gracile’s gun rules:
 
 Reloading:
 Auto:
-when you attack with a full auto gun,you may attack the number of times listed on the fire rate, class features may add only one extra attack, regardless of the features.
+when you attack with a full auto gun,you may attack twice, this stacks with class features.
 
 Semi-Auto:
 you cannot fire a semi auto gun beyond its mag capacity regardless of class features, mag capacity is the max amount of times you can make an attack with a gun in one turn, and it should not be assumed that you can make attacks with it more then your turn with any other weapon would permit.
