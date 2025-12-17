@@ -52,7 +52,7 @@ Upon rolling a nat1 while attacking with a gun, your weapon stops working, and y
 TIER ONE
 
 Pistol: 
-Damage: 1d8+3
+Damage: 1d8
 Ammo type: light
 Range: 90FT
 Proficiency: light weapons
@@ -62,7 +62,7 @@ Cost: 100GP
 Tier 1
 
 Revolver: 
-Damage: 1d10
+Damage: 1d8
 Ammo type: medium
 Range: 130FT
 Proficiency: light weapons
@@ -72,7 +72,7 @@ Cost: 120GP
 Tier 1
 
 Blowgun: 
-Damage: 1d4+3
+Damage: 1d4
 Ammo type: dart
 Range: 90FT
 Proficiency: light weapons
@@ -83,7 +83,7 @@ Cost: 60GP
 Tier 1
 
 Noisy hornet: 
-Damage: 2d4+4
+Damage: 16+2
 Ammo type: magnet rounds 
 Range: 130FT
 Proficiency: light weapons
@@ -94,7 +94,7 @@ Cost: 150GP
 Tier 1
 
 Prism gauntlet:
-Damage: 1d4+1
+Damage: 1d4
 Ammo type: Magic
 Fire type: full auto
 Fire rate: 2
@@ -102,7 +102,7 @@ Cost: 200GP
 Tier 1
 
 Tranquilizer crossbow:
-Damage: 1d6+2
+Damage: 1d6+1
 Ammo type: dart
 Range: 120FT
 Proficiency: medium weapons
@@ -118,7 +118,7 @@ Tier 1
 TIER TWO
 
 Detachable magazine shotgun V1:
-Damage: 1d8+3
+Damage: 1d8+2
 Ammo type: shells
 Range: 50FT
 Fire type: semi-auto
@@ -127,7 +127,7 @@ Cost: 200GP
 Tier 2
 
 Acceleration rifle:
-Damage: 2d4+3
+Damage: 1d4+5
 Ammo type: magnet rounds
 Range: 250FT
 Fire type: semi-auto
@@ -135,18 +135,11 @@ Mag capacity: 2 rounds
 Cost: 250GP
 Tier 2
 
-Assault rifle:
-Damage: 1d4+1
-Ammo type: medium
-Range: 200FT
-Fire type: full-auto
-Cost: 300GP
-Tier 2
-
 Air Rifle:
-Damage: 1d8 + 1d6
+Damage: 1d4
 Ammo type: Canister
 Range: 10FT
+Fire type: full auto
 Mag capacity: 1
 imposes strength saving throw on target,
 on fail, target is knocked 5FT backwards.
@@ -155,15 +148,16 @@ cost: 150GP
 tier 2
 
 Aether Conduit
-Damage: 1d4+1
+Damage: 1d4
 Ammo type: magic
 Range: 80FT
-Fire type: full auto
+Fire type: semi auto
+Mag capacity: 3
 cost: 250GP
 tier 2
 
 non-lethal tazer gun
-damage: 2d4
+damage: 1d8
 range: 90FT
 fire type: semi auto
 enemies reduced to 0hp with this weapon with be kept alive and concious, but are unconcious.
@@ -176,15 +170,24 @@ tier 2
 TIER THREE
 
 SMG
-Damage: 1d6+5 piercing
++1 to hit.
+Damage: 1d4 piercing
 Range: 120FT
 Fire type: full auto
 Ammo type: medium
 Cost: 330GP
 Tier 3
 
+Assault rifle:
+Damage: 1d4
+Ammo type: medium
+Range: 200FT
+Fire type: full-auto
+Cost: 300GP
+Tier 2
+
 StarDrive:
-Damage: 2d8 radiant
+Damage: 1d4 radiant
 Range: 130FT
 Fire type: full auto
 Ammo type: magic
@@ -192,7 +195,7 @@ Cost: 320GP
 Tier 3
 
 Triple Barrel Shotgun
-Damage: 5d6
+Damage: 2d6
 Range: 80
 Fire type: semi auto
 Mag Capacity: 1
@@ -201,7 +204,7 @@ Cost: 340GP
 Tier 3
 
 SoundBlaster
-Damage: 1d10+2 force
+Damage: 2d4 force
 Fire type: full auto
 targets reduced to 0hp or under with this weapon will be kept alive, but unconcious and deaf.
 say it for the people in the back, living enemies may be turned in for 1.5x the normal pay.
