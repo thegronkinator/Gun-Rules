@@ -136,11 +136,10 @@ Cost: 250GP
 Tier 2
 
 Assault rifle:
-Damage: 1d8
+Damage: 1d4+1
 Ammo type: medium
 Range: 200FT
 Fire type: full-auto
-Fire rate: 2
 Cost: 300GP
 Tier 2
 
@@ -156,11 +155,10 @@ cost: 150GP
 tier 2
 
 Aether Conduit
-Damage: 1d8
+Damage: 1d4+1
 Ammo type: magic
 Range: 80FT
 Fire type: full auto
-Fire rate: 2
 cost: 250GP
 tier 2
 
@@ -169,42 +167,54 @@ damage: 2d4
 range: 90FT
 fire type: semi auto
 enemies reduced to 0hp with this weapon with be kept alive and concious, but are unconcious.
+living targets may be turned in for 1.5x the normal pay
 Mag capacity: 10
 Ammo type: magnet rounds
 cost: 230GP
 tier 2
 
-TIER 3
+TIER THREE
 
 SMG
-Damage: 1d6+1 piercing
+Damage: 1d6+5 piercing
 Range: 120FT
 Fire type: full auto
 Ammo type: medium
-Cost: 300GP
+Cost: 330GP
 Tier 3
 
 StarDrive:
-Damage: 3d8 radiant
+Damage: 2d8 radiant
 Range: 130FT
-Fire type: semi auto
-Mag capacity: 1
+Fire type: full auto
 Ammo type: magic
 Cost: 320GP
 Tier 3
 
-Triple Barrel Shotgun:
-Damage: 2d12 piercing
+Triple Barrel Shotgun
+Damage: 5d6
+Range: 80
 Fire type: semi auto
-Mag Capacity: 6
+Mag Capacity: 1
 Ammo type: shells
 Cost: 340GP
 Tier 3
 
+SoundBlaster
+Damage: 1d10+2 force
+Fire type: full auto
+targets reduced to 0hp or under with this weapon will be kept alive, but unconcious and deaf.
+say it for the people in the back, living enemies may be turned in for 1.5x the normal pay.
+Ammo type: Canister
+Cost: 350
+Tier 3
 
+PulseRail:
+Damage:
 
 
 Attachments:
+
 Attachments are parts that you can attach to your gun to give it varying levels of increased usefulness, every gun is equipped with three attachment slots, the scope, barrel, and grip.
 
 One of each of these may be attached to the gun at a time, and attachments may be removed or added as a bonus action.
