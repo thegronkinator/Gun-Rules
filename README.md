@@ -223,6 +223,28 @@ Tier 3
 
 TIER FOUR
 
+Reaper's Callcard
+Damage: 1d10 piercing
+Range: 80FT
+Fire Type: full auto
+misfire is 1-5, upon rolling 6-8 you must make a DC15 strength save or take 2d8 damage, with half on success, and be knocked prone.
+Cost:1000GP
+Tier 4
+
+DreadFire
+Damage: 3d10
+Range: 300FT
+Fire type: semi auto
+Mag capacity: 1
+cost:900GP
+Tier 4
+
+
+
+
+Ammo type: heavy
+Cost:1000GP
+Tier 4
 
 Attachments:
 
