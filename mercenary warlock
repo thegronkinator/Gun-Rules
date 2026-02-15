@@ -1,11 +1,13 @@
-Solver (warlock):
-You didn’t sell your soul or your child for power; you signed a W—9 and shook hands with a man in a suit. Whereas other warlocks experience the thrill and terror of cosmic horror, you instead face the existential dread of corporate mundanity. Look on the bright side, those other chumps aren’t getting free dental.
+Mercenary (warlock):
+You didn’t sell your soul or your child for power; instead, you shake hands with men in pointy hats, and agree to do favors for them in exhange for some of their power. Whereas other warlocks experience the thrill and terror of cosmic horror, you instead face the existential dread of the mundanity of magical logistics.
 ​
 1st Level: Otherworldly Patron(s)
-You’ve signed a contract with Valhalla incorporated™, a primarily Gracilian and human PMC, consisting of corporate-hired enforcement agents. Which is why you joined the party. For some reason, their work, and mission are considered advantageous for you to join, and work with your DM to decide the missions you fulfill along the way, as well as the money you are paid for it.
-​
+as opposed to having one patron who gives you power
+in exchange for service, you actively seek them out,
+you never know what your going to get in terms of subclass bonuses until you have it.
+
 1st level: Expanded spell list
-These are the standard corporate-mandated, arcane tools that were put at your disposal for the purpose of your job.
+These are the standard arcane tools that you forumulatef for the purpose of your job.
 ​
 1st: shield, alarm.
 ​
@@ -23,49 +25,45 @@ These items are magically transported and must be used for specific short term p
 They’ll know if you try to sell the food.
 ​
 6th level: Corporate Investment 
-Starting at 6th level, you can expend a spellslot to invest in the corporate rewards dice table:
-Upon receiving the reward, you may use a standard action to activate it whenever you wish.
-Using a spellslot above 1st level will grant a bonus d4 you can roll alongside the base dice for the final result; if the final result is higher than the dice table, it automatically defaults to the highest number. Does the corporation structure it this way to squeeze its employees for all they've got? Legally, they are required to say no.
-On the bright side, most of these last till you decide to try to get a new one.
+Starting at 6th level, you can expend a spellslot to invest in a loan from your patron,
+Upon receiving the result, you may use a standard action to activate it whenever you wish,
+your spellcasting mod will not be used in this roll, for it is a flat roll.
+Using a spellslot above 1st level will grant a bonus d4 you can roll alongside the base dice for the final result; if the final result is higher than the dice table, it automatically defaults to the highest number,
+most of these last till you decide to try to get a new one.
 
 Corporate dice table (1d20):
 
 1: resistance to poison damage
-10: resistance to acid damage
-18: replace one of your leveled spells with silvery barbs
 2: resistance to freezing damage
-
-11: resistance to slashing damage
-19: use your next reaction to impose disadvantage, one time use
 3: resistance to fire damage
-12: resistance to stabbing damage
-20: you gain a rubber ducky,
-Corporate will know if you sell or lose it…
-4: resistance to lightning damage 
-13: resistance to magic damage
-
-5: resistance to necrotic damage
-14: resistance to force damage
-6. Resistance to thunder damage
-15: +15 increase to movement speed
+4: resistance to lightning damage
+6: resistance to thunder damage
 7: resistance to psychic damage
-16:  for 1d4 turns of initiative, an extra +2 to hit.
-8: resistance to radiant damage
-17: for 1d4 turns of initiative, an extra 1d8 of damage.
-
-
-
+8: resistancd to radiant damage
+9: resistance to necrotic damage
+10: resistance to acid damage
+11: resistance to magic damage
+12: resistance to piercing damage
+13: resistance to slashing damage
+14: resistance to force damage
+15: 15+ walking speed
+16: for one round of initiative, an extra +2 to hit
+17: for one round of initiative, an extra 1d8 damage
+18: replace one of your first level spells with silvery barbs
+19: use your next reaction to impose disadvantage, one time use per this option being rolled.
+20: you gain a rubber ducky,
 
 ​​
 10th level: Dual-Defense
-Starting at 10th level, you can use a reaction to add +5 to your AC
+Starting at 10th level, you can use a reaction to add +5 to your AC without using a spellslot, this can only be used one time per long rest,
+and lasts till the start of your next turn.
 
 ​
 14th level: Squad Strike
-Starting at 14th level, you can use your Action to summon up to 2 corporate solvers, they act independently of you, but respond to your commands, and both share a turn.
+Starting at 14th level, in exchange for 100gp, you can use your Action to summon up to 2 hired underlings, they act independently of you, but respond to your commands, and both share a turn.
 
 Solver stats:
-Name: solver
+Name: hired underling
 Medium Humanoid (any race),
 Armor Class: 15
 Hit Dice: 40 + CON
@@ -86,16 +84,16 @@ Languages: Common, elvish, Jargon, Thieves cant
 Traits:
 Trait Name: mobbing
 Description:
-This statblock can only be used when there's 4 of them present, each sharing one turn, with them able to attack 4 times at once.
+This statblock can only be used when there's 2 of them present, each sharing one turn, with them able to attack 2 times at once.
 
 Standard Actions:
 
-Gun:
+throwing knife
 To hit: +5
 Damage: 1d6+2
 Range: 80/320FT
 
-Corporate issued Saber:
+rapier:
 To hit: +5
 Damage: 1d6+2
 Range: 5FT
